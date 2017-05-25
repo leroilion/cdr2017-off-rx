@@ -1,4 +1,4 @@
-# Arduino project template
+# Robot wireless with turbine
 
 ## Install tools
 
@@ -17,4 +17,4 @@ $ npm install
 
 ## main program
 
-The main program is simply an arduino blink
+Robot wireless with turbine
